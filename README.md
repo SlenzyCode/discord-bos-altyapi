@@ -1,2 +1,4 @@
-# discord-bos-altyapi
-👨🏻‍💻 Developer &amp; Designer Slenzy
+# 🌐 Discord Boş Altyapısı
+
+## 🧷 Proje Kurulumu
+Projeyi kurmak için [buraya tıklayabilirsin](https://youtube.com)
