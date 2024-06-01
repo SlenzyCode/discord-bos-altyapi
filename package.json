@@ -1,0 +1,12 @@
+{
+  "main": "bun src/index.js",
+  "scripts": {
+    "start": "bun src/index.js"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "discord.js": "^14.15.2",
+    "dotenv": "^16.4.5",
+    "speste-djs": "^0.0.5"
+  }
+}
